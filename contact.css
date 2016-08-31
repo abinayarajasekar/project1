@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+ p
+   {
+   color:#fff;
+   }
+   
+  
+  body
+  {
+     background:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyNcJcAsRjTES9YBOj1JgHhXNPFUf3HaZx7fir_wJiE0F6Jd1p0g');
+    background-size: cover;
+    background-repeat: no-repeat;
+    });
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+  }
